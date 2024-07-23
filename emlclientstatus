@@ -1,5 +1,6 @@
 {
   "visible":false,
   "message":"",
-  "color":"yellow"
+  "bannerColor":"yellow",
+  "textColor":"black"
 }
