@@ -1,6 +1,6 @@
 {
-  "visible":true,
-  "message":"A server issue involving mod uploading has been detected. A fix for this will be rolled out soon.",
+  "visible":false,
+  "message":"",
   "bannerColor":"yellow",
   "textColor":"black"
 }
